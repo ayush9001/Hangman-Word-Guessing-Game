@@ -1,4 +1,4 @@
-# A word guessing game written in  Python using pygame library.
+# A word guessing game in Python using pygame library.
 This game is based on the popular 2-player paper pencil game Hangman. 
 
 The player has to guess a random word chosen by the game from selected topics. The game hints the player by showing an image related to the word and also reveals the number of letters in it. As the player enters a valid letter, the instances of that letter in the word get revealed and the word gets closer to completion. Whereas if the player enters a wrong letter, a hangman stick figure is developed. The player has to guess all letters in the word without making six wrong guesses.
